@@ -1,9 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/TymonYang/tymonyang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ***个人简介：***
 
         姓 名： 杨波 手 机： 15891407976 
@@ -95,13 +89,3 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
         View使用富客户端，Control返回JOSN对象，使用Juqery的evel()方法格式化后即可使用对象.属性得到值。同时使用AJAX请求指定控制器Control，返回结果也是JSON,利用SignaIR（当WebSockets可用时（即浏览器支持Html5）SignalR使用WebSockets）实现即时通讯，方便每个操作员交流沟通。以前用户需要刷新页面或使用Ajax轮询才能实现的实时显示数据，现在只要使用SignalR，就可以简单实现。
         编写用户操作手册并培训用户。
        
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TymonYang/tymonyang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
